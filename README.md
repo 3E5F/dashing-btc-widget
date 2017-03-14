@@ -1,3 +1,7 @@
+##Preview:
+
+<img src="https://github.com/Aycn0/dashing-btc-widget/blob/master/Screen%20Shot%202017-03-13%20at%206.11.34%20PM.png" width="400px">
+
 ##Description:
 Widget for Dashing/Smashing displaying Bitcoin (BTC) Price
 
